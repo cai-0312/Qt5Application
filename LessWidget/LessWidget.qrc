@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/LessWidget">
+        <file>resource/title.png</file>
+        <file>resource/close.png</file>
+        <file>resource/max.png</file>
+        <file>resource/min.png</file>
+        <file>resource/set.png</file>
+    </qresource>
+</RCC>

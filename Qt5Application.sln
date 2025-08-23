@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LessWidget", "LessWidget\LessWidget.vcxproj", "{ECE9C98D-5D44-4101-8BBB-7F46034558FF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VLCVideoPlayer", "VLCVideoPlayer\VLCVideoPlayer.vcxproj", "{C63B368E-AB26-4CF0-B21E-F060C9B6ADD5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MediaPlayer", "MediaPlayerPro\MediaPlayer.vcxproj", "{F2FB175A-4E12-4EBD-8831-79C93F2ADE78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE9C98D-5D44-4101-8BBB-7F46034558FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECE9C98D-5D44-4101-8BBB-7F46034558FF}.Debug|x86.Build.0 = Debug|Win32
+		{ECE9C98D-5D44-4101-8BBB-7F46034558FF}.Release|x86.ActiveCfg = Release|Win32
+		{ECE9C98D-5D44-4101-8BBB-7F46034558FF}.Release|x86.Build.0 = Release|Win32
+		{C63B368E-AB26-4CF0-B21E-F060C9B6ADD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{C63B368E-AB26-4CF0-B21E-F060C9B6ADD5}.Debug|x86.Build.0 = Debug|Win32
+		{C63B368E-AB26-4CF0-B21E-F060C9B6ADD5}.Release|x86.ActiveCfg = Release|Win32
+		{C63B368E-AB26-4CF0-B21E-F060C9B6ADD5}.Release|x86.Build.0 = Release|Win32
+		{F2FB175A-4E12-4EBD-8831-79C93F2ADE78}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2FB175A-4E12-4EBD-8831-79C93F2ADE78}.Debug|x86.Build.0 = Debug|Win32
+		{F2FB175A-4E12-4EBD-8831-79C93F2ADE78}.Release|x86.ActiveCfg = Release|Win32
+		{F2FB175A-4E12-4EBD-8831-79C93F2ADE78}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A2E244-142E-4C0B-B88D-97E2D8D5CF5C}
+	EndGlobalSection
+EndGlobal
